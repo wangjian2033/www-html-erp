@@ -1,0 +1,21 @@
+TRUNCATE table `sale_orders`;
+TRUNCATE table `sale_order_addresses`;
+TRUNCATE table `sale_order_address_fulltexts`;
+TRUNCATE table `sale_order_items`;
+
+TRUNCATE table `sale_order_return`;
+TRUNCATE table `sale_order_return_item`;
+
+TRUNCATE table `sale_origin_orders`;
+TRUNCATE table `sale_origin_order_items`;
+TRUNCATE table `sale_origin_order_addresses`;
+TRUNCATE table `sale_origin_order_comments`;
+TRUNCATE table `sale_origin_order_payment`;
+
+TRUNCATE table `sale_line_orders`;
+TRUNCATE table `sale_line_order_items`;
+TRUNCATE table `sale_line_order_items_batch`;
+
+TRUNCATE table `finance_receipt_bills`;
+TRUNCATE table `finance_receipt_bill_items`;
+TRUNCATE table `finance_receipt_bill_items_source`;
