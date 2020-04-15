@@ -19,3 +19,11 @@ TRUNCATE table `sale_line_order_items_batch`;
 TRUNCATE table `finance_receipt_bills`;
 TRUNCATE table `finance_receipt_bill_items`;
 TRUNCATE table `finance_receipt_bill_items_source`;
+
+TRUNCATE table `purchase_orders`;
+TRUNCATE table `purchase_orders_detail`;
+TRUNCATE table `purchase_orders_detail_history`;
+TRUNCATE table `purchase_orders_history`;
+
+TRUNCATE table `purchase_warehouse`;
+TRUNCATE table `purchase_warehouse_detail`;
